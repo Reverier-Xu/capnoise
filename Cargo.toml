@@ -7,6 +7,7 @@ authors     = ["Reverier-Xu <reverier.xu@woooo.tech>"]
 description = "A captcha based on noise animations, designed to protect website from AI or automation scripts."
 edition     = "2024"
 homepage    = "https://github.com/Reverier-Xu/capnoise"
+license     = "Apache-2.0"
 repository  = "https://github.com/Reverier-Xu/capnoise"
 version     = "0.0.1"
 
