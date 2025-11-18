@@ -1,0 +1,11 @@
+[package]
+name = "capnoise"
+
+authors.workspace     = true
+description.workspace = true
+edition.workspace     = true
+homepage.workspace    = true
+repository.workspace  = true
+version.workspace     = true
+
+publish = true
