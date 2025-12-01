@@ -10,3 +10,11 @@ repository.workspace  = true
 version.workspace     = true
 
 publish = true
+
+[dependencies]
+once_cell = { workspace = true }
+rand      = { workspace = true }
+
+[[bin]]
+name = "capnoise"
+path = "src/main.rs"
