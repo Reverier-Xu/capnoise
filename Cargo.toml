@@ -9,8 +9,8 @@ edition     = "2024"
 homepage    = "https://github.com/Reverier-Xu/capnoise"
 license     = "Apache-2.0"
 repository  = "https://github.com/Reverier-Xu/capnoise"
-version     = "0.1.0"
+version     = "0.1.1"
 
 [workspace.dependencies]
 once_cell = "1.21"
-rand      = "0.9"
+rand      = "0.10"
